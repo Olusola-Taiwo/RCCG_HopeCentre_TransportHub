@@ -1,5 +1,5 @@
-CREATE CATALOG IF NOT EXISTS church_transport;
-USE CATALOG church_transport;
+CREATE CATALOG IF NOT EXISTS rccg_hopecentre_transporthub;
+USE CATALOG rccg_hopecentre_transporthub;
 
 CREATE SCHEMA IF NOT EXISTS core;
 USE SCHEMA core;
